@@ -45,7 +45,3 @@ For detailed background, [view my resume](./resume.md) included in this reposito
 
 ---
 
-|COL1|COL2|COL3|
-|----|----|----|
-|hi|hie|hiee|
-
