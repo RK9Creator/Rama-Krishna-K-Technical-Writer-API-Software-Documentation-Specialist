@@ -12,7 +12,7 @@ This portfolio showcases samples tailored for Microsoft Power Platform with focu
 
 ##   Portfolio Samples
 
-### 1. [Getting Started with Power Apps for Business Users](./getting-started-powerapps.md)
+### 1. [GRS_API_Documentation](./GRS_API_Documentation.md)
 A beginner-level tutorial that helps business users create their first app using SharePoint list data. Covers interface navigation, automatic app generation, and publishing steps.
 
 ### 2. [Using Data Loss Prevention (DLP) Policies in Power Platform Admin Center](./dlp-policies-powerplatform.md)
