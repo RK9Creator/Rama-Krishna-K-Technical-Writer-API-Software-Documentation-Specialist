@@ -9,7 +9,7 @@
 
 ## Contents
 
-1. [Introduction](#1. introduction)  
+1. [Introduction](#introduction)  
 2. [Getting started](#getting-started)  
 3. [GRS Tool overview](#GRS-tool-overview)  
 4. [Working with the GRS Tool](#working-with-the-GRS-tool)  
@@ -190,3 +190,14 @@ The GRS Tool validates and manages healthcare design log records before they loa
 |---------|------------|----------------|----------------|
 | v1.0    | 20-09-2025 | Rama Krishna K  | Initial release |
 ```
+
+
+
+# Table of Contents
+
+- [Introduction](#introduction)
+
+# Introduction
+
+This is the introduction section of the document.
+
