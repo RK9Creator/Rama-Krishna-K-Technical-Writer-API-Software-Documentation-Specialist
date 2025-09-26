@@ -9,7 +9,7 @@
 
 ## Contents
 
-1. [Introduction](#Introduction)  
+1. [Introduction](#1_introduction)  
 2. [Getting started](#getting-started)  
 3. [GRS Tool overview](#GRS-tool-overview)  
 4. [Working with the GRS Tool](#working-with-the-GRS-tool)  
