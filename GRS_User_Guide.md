@@ -13,11 +13,11 @@
 2. [Getting started](#2-getting-started)  
 3. [GRS Tool overview](#3-GRS-tool-overview)  
 4. [Working with the GRS Tool](#4-working-with-the-GRS-tool)  
-   - A. [Upload design logs](#a-upload-design-logs)  
-   - B. [Validate records](#b-validate-records)  
-   - C. [Edit records](#c-edit-records)  
-   - D. [Delete records](#d-delete-records)  
-   - E. [Migrate records](#e-migrate-records)  
+   - 4.1. [Upload design logs](#4.1-upload-design-logs)  
+   - 4.2. [Validate records](#4.2-validate-records)  
+   - 4.3. [Edit records](#4.3-edit-records)  
+   - 4.4. [Delete records](#4.4-delete-records)  
+   - 4.5. [Migrate records](#4.5-migrate-records)  
 5. [Troubleshooting](#5-troubleshooting)  
 6. [Best practices](#6-best-practices)  
 7. [Glossary](#7-glossary)  
@@ -99,7 +99,7 @@ The GRS Tool validates and manages healthcare design log records before they loa
 
 ## 4. Working with the GRS Tool
 
-### A. Upload design logs
+### 4.1. Upload design logs
 1. Sign in to the GRS Tool.  
 2. On the dashboard, select **Upload Design Log**.  
 3. In the dialog box, select **Browse**.  
@@ -111,7 +111,7 @@ The GRS Tool validates and manages healthcare design log records before they loa
 
 **Tip:** Upload only one log at a time. Large files may take longer to process.  
 
-### B. Validate records
+### 4.2. Validate records
 1. Review the Validation table.  
 2. Check records marked in red.  
 3. Read the error message in the status column.  
@@ -119,7 +119,7 @@ The GRS Tool validates and manages healthcare design log records before they loa
 4. Correct the error manually or delete the record.  
    - All corrected records appear in black text  
 
-### C. Edit records
+### 4.3. Edit records
 1. In the Validation table, find the record in red.  
 2. Select the **Edit** icon.  
 3. Update the incorrect fields, such as:  
@@ -130,18 +130,18 @@ The GRS Tool validates and manages healthcare design log records before they loa
 
 **Note:** Only users with the Editor role can make updates.  
 
-### D. Delete records
+### 4.4. Delete records
 1. In the Validation table, find the invalid record.  
 2. Select the **Delete** icon.  
 3. In the confirmation dialog, select **Yes**.  
 
 **Warning:** Deleted records can't be recovered. Download a backup before you delete records.  
 
-### E. Migrate records
+### 4.5. Migrate records
 1. Confirm that all records in the Validation table are valid.  
 2. In the Migration panel, select the target environment:  
-   - 1D → 1R  
-   - 1R → 1P  
+   - 1D to 1R  
+   - 1R to 1P  
 3. Select **Migrate**.  
 4. Wait for the migration confirmation message.  
 
