@@ -13,7 +13,7 @@
 2. [Getting started](#2-getting-started)  
 3. [GRS Tool overview](#3-GRS-tool-overview)  
 4. [Working with the GRS Tool](#4-working-with-the-GRS-tool)  
-   - 4.1. [Upload design logs](#41.-upload-design-logs)  
+   - 4.1. [Upload design logs](#41-upload-design-logs)  
    - 4.2. [Validate records](#42-validate-records)  
    - 4.3. [Edit records](#43-edit-records)  
    - 4.4. [Delete records](#44-delete-records)  
