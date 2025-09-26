@@ -1,10 +1,5 @@
 # GRS Tool - User Guide
 
-**Version:** 1.0  
-**Author:** Rama Krishna K  
-**Date:** 26-09-2025  
-**Confidentiality:** For internal use only  
-
 ---
 
 ## Contents
