@@ -9,7 +9,7 @@
 
 ## Contents
 
-1. [Introduction](introduction)  
+1. [Introduction](#1. introduction)  
 2. [Getting started](#getting-started)  
 3. [GRS Tool overview](#GRS-tool-overview)  
 4. [Working with the GRS Tool](#working-with-the-GRS-tool)  
@@ -26,7 +26,7 @@
 
 ---
 
-## 1. Introduction
+# 1. Introduction
 
 ### Purpose
 Use this guide to learn how to upload, validate, update, and migrate design log records with the GRS Tool.
