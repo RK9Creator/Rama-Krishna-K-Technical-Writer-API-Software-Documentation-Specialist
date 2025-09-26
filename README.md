@@ -1,2 +1,3 @@
 # Rama-Krishna-K-Technical-Writer-API-Software-Documentation-Specialist
 This portfolio showcases sample technical documentation with focus on API documentation, User Guides, and SOPs.
+Technical Writer with 8 years of experience, including 5 years focused on creating high-quality technical documentation. Proficient in developing user manuals, online help systems, API documentation, SOPs, and process guides. Experienced in collaborating with cross-functional teams to translate complex technical concepts into clear, user-friendly content. Skilled in tools like MadCap Flare and Microsoft Word, and well-versed in industry-standard documentation practices. Passionate about delivering precise, accessible, and engaging documentation that enhances user experience.
