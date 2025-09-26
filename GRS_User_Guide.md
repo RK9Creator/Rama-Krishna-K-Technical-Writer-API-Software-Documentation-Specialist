@@ -10,19 +10,19 @@
 ## Contents
 
 1. [Introduction](#1-introduction)  
-2. [Getting started](#getting-started)  
-3. [GRS Tool overview](#GRS-tool-overview)  
-4. [Working with the GRS Tool](#working-with-the-GRS-tool)  
+2. [Getting started](#2-getting-started)  
+3. [GRS Tool overview](#3-GRS-tool-overview)  
+4. [Working with the GRS Tool](#4-working-with-the-GRS-tool)  
    - A. [Upload design logs](#a-upload-design-logs)  
    - B. [Validate records](#b-validate-records)  
    - C. [Edit records](#c-edit-records)  
    - D. [Delete records](#d-delete-records)  
    - E. [Migrate records](#e-migrate-records)  
-5. [Troubleshooting](#troubleshooting)  
-6. [Best practices](#best-practices)  
-7. [Glossary](#glossary)  
-8. [Appendices](#appendices)  
-9. [Document control](#document-control)  
+5. [Troubleshooting](#5-troubleshooting)  
+6. [Best practices](#6-best-practices)  
+7. [Glossary](#7-glossary)  
+8. [Appendices](#8-appendices)  
+9. [Document control](#9-document-control)  
 
 ---
 
