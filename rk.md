@@ -1,4 +1,3 @@
-```markdown
 # GRS (Group Retire Solution) Tool API Documentation
 **Version:** 1.0 — **Last Updated:** September 25, 2025  
 **Author:** Rama Krishna — Technical Writer  
@@ -375,7 +374,5 @@ SVC001,PLN001,2025-01-01,2025-12-31,18-65,BEN001,100.00,Annual benefit
 
 * Initial complete documentation authored by Rama Krishna.
 
-```
 
----
 
