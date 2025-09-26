@@ -13,7 +13,7 @@
 2. [Getting started](#2-getting-started)  
 3. [GRS Tool overview](#3-GRS-tool-overview)  
 4. [Working with the GRS Tool](#4-working-with-the-GRS-tool)  
-   - 4.1. [Upload design logs](#4.1-upload-design-logs)  
+   - 4.1. [Upload design logs](#4.1.-upload-design-logs)  
    - 4.2. [Validate records](#4.2-validate-records)  
    - 4.3. [Edit records](#4.3-edit-records)  
    - 4.4. [Delete records](#4.4-delete-records)  
@@ -26,7 +26,7 @@
 
 ---
 
-# 1. Introduction
+## 1. Introduction
 
 ### Purpose
 Use this guide to learn how to upload, validate, update, and migrate design log records with the GRS Tool.
