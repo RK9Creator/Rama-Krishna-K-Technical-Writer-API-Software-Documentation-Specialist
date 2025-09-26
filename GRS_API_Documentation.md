@@ -1,4 +1,4 @@
-# GRS (Group Retire Solution) Tool API Documentation
+# GRS (Group Retire Solution) API Documentation
 **Version:** 1.0 — **Last Updated:** September 25, 2025  
 **Author:** Rama Krishna — Technical Writer  
 
