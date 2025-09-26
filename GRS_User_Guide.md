@@ -6,6 +6,15 @@
 **Confidentiality:** For internal use only  
 
 ---
+# Table of Contents
+
+- [Introduction](#introduction)
+
+# Introduction
+
+This is the introduction section of the document.
+
+---
 
 ## Contents
 
@@ -191,13 +200,4 @@ The GRS Tool validates and manages healthcare design log records before they loa
 | v1.0    | 20-09-2025 | Rama Krishna K  | Initial release |
 ```
 
-
-
-# Table of Contents
-
-- [Introduction](#introduction)
-
-# Introduction
-
-This is the introduction section of the document.
 
