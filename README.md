@@ -41,6 +41,6 @@ For detailed background, [view my resume](./resume.md) included in this reposito
 
 -   kondururamakrishnagoud@gmail.com
 -   +91 7013947875
--   [LinkedIn](www.linkedin.com/in/rkgoud)
+-   [LinkedIn](https://www.linkedin.com/in/rkgoud)
 
 ---
