@@ -6,19 +6,10 @@
 **Confidentiality:** For internal use only  
 
 ---
-# Table of Contents
-
-- [Introduction](#introduction)
-
-# Introduction
-
-This is the introduction section of the document.
-
----
 
 ## Contents
 
-1. [Introduction](#introduction)  
+1. [Introduction](#Introduction)  
 2. [Getting started](#getting-started)  
 3. [GRS Tool overview](#GRS-tool-overview)  
 4. [Working with the GRS Tool](#working-with-the-GRS-tool)  
