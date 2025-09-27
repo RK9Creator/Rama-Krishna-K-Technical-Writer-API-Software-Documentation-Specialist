@@ -132,5 +132,4 @@ The GRS Tool is a **middleware solution** that connects design log records with 
 - Internal process documentation.
 - Facets system integration guides.
 ```
-
 ---
