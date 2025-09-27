@@ -2,7 +2,7 @@
 ## About Me
 
 - Experienced **Technical Writer** with 8 years in IT, healthcare, and software domains.  
-- Skilled in **MadCap Flare, Microsoft Word, Confluence, SharePoint.  
+- Skilled in **MadCap Flare, Microsoft Word, Confluence, SharePoint**.  
 - Passionate about creating **clear, structured, and user-friendly documentation**.  
 - Exploring ways to combine **technical writing with programming and automation**.
 
