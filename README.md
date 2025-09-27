@@ -30,7 +30,7 @@ Defines the functional and non-functional requirements, system scope, use cases,
 
 ---
 ##   Other Samples
-* [Automated Teller Machine with Flow chart](Automated_Teller_Machine_with_Flow_chart.docx)
+* [SOP for Food Delivery Drivers](SOP_for_Food_Delivery_Drivers.docx)
 ---
 ##   Resume
 
