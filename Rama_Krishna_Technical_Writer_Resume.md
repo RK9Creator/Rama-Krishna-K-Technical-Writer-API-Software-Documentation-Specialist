@@ -1,6 +1,6 @@
 # Rama Krishna Konduru
 
-## 📞 Contact Information
+## Contact Information
 - **Email:** kondururamakrishnagoud@gmail.com  
 - **Phone:** +91 7013947875  
 - **Address:** 3-17-56/30/D/2, Gandhi Nagar, Ramanthapur, Hyderabad  
@@ -9,12 +9,12 @@
 
 ---
 
-## 📝 Summary
+## Summary
 Technical Writer with **8 years of experience**, including 5 years in high-tech and healthcare domains. Skilled in creating user manuals, API documentation, SOPs, installation guides, and knowledge base content. Adept at collaborating with SMEs, developers, QA, and global teams. Proficient in **MadCap Flare, Confluence, SharePoint, Git, and Markdown**. Exposure to **AI-assisted documentation tools**. Strong understanding of **UX principles, information architecture**, and **content standardization**.
 
 ---
 
-## 🛠️ Core Competencies
+## Core Competencies
 
 - **Documentation Tools:** MadCap Flare, Confluence, SharePoint, Microsoft Word, Git, Markdown, DITA (familiar), HTML, Adobe Acrobat, Visio (basic)  
 - **Content Types:** User Manuals, API Documentation, Installation Guides, SOPs, Release Notes, Training Material, Knowledge Base Articles  
@@ -24,7 +24,7 @@ Technical Writer with **8 years of experience**, including 5 years in high-tech 
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### **Technical Writer**  
 **Carelon Global Solutions**  
@@ -70,7 +70,7 @@ Technical Writer with **8 years of experience**, including 5 years in high-tech 
 
 ---
 
-## 🎓 Education
+## Education
 
 - **Bachelor's Degree**, Osmania University, Hyderabad  
 - **Higher Secondary Certification**, Board of Intermediate Education, Hyderabad  
@@ -78,7 +78,7 @@ Technical Writer with **8 years of experience**, including 5 years in high-tech 
 
 ---
 
-## 🏆 Achievements & Highlights
+## Achievements & Highlights
 
 - Independently managed end-to-end documentation projects from initial drafts to publishing.  
 - Recognized for creating structured onboarding guides that reduced new user training time.  
@@ -86,6 +86,6 @@ Technical Writer with **8 years of experience**, including 5 years in high-tech 
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - **Certified Technical Writer**, Tech Writer’s Tribe — *July 2021*
