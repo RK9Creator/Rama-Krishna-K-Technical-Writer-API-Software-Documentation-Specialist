@@ -30,7 +30,7 @@ Defines the functional and non-functional requirements, system scope, use cases,
 
 ---
 ##   Other Samples
-*1. [SOP for Food Delivery Drivers_docx](./SOP_for_Food_Delivery_Drivers_docx)
+*1. [SOP for Food Delivery Drivers](./SOP_for_Food_Delivery_Drivers_.docx)
 
 ---
 ##   Resume
