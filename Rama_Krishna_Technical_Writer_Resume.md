@@ -11,7 +11,6 @@
 ## Summary
 Technical Writer with **8 years of experience**, including 5 years in high-tech and healthcare domains. Skilled in creating user manuals, API documentation, SOPs, installation guides, and knowledge base content. Adept at collaborating with SMEs, developers, QA, and global teams. Proficient in **MadCap Flare, Confluence, SharePoint, Git, and Markdown**. Exposure to **AI-assisted documentation tools**. Strong understanding of **UX principles, information architecture**, and **content standardization**.
 
----
 
 ## Core Competencies
 
@@ -21,7 +20,6 @@ Technical Writer with **8 years of experience**, including 5 years in high-tech 
 - **Domain Knowledge:** Healthcare, IT/Software  
 - **Key Strengths:** Project management, stakeholder collaboration, content structuring, style consistency, single-sourcing, multi-project handling  
 
----
 
 ## Experience
 
@@ -35,7 +33,6 @@ Technical Writer with **8 years of experience**, including 5 years in high-tech 
 - Standardized templates and style guides, improving content consistency and reducing review cycles by 20%.  
 - Created process guides and internal documentation following HIPAA compliance.
 
----
 
 ### **Senior Analyst**  
 **R1 RCM**  
@@ -46,7 +43,6 @@ Technical Writer with **8 years of experience**, including 5 years in high-tech 
 - Prepared daily inventory reports and monthly dashboards using Tableau and Excel.  
 - Explored software tools hands-on to document processes accurately.
 
----
 
 ### **Claims Associate**  
 **Optum Global Solutions**  
@@ -57,7 +53,6 @@ Technical Writer with **8 years of experience**, including 5 years in high-tech 
 - Ensured accurate processing and completion of hospital claims.  
 - Managed exceptions that routed out of automatic adjudication within turnaround standards.
 
----
 
 ### **Analyst**  
 **Inventurus Knowledge Solutions (IKS)**  
@@ -67,7 +62,6 @@ Technical Writer with **8 years of experience**, including 5 years in high-tech 
 - Tracked denials for appeal and validated payer contracts.  
 - Reconciled daily payment logs and ensured accuracy of revenue records.
 
----
 
 ## Education
 
@@ -75,15 +69,12 @@ Technical Writer with **8 years of experience**, including 5 years in high-tech 
 - **Higher Secondary Certification**, Board of Intermediate Education, Hyderabad  
 - **Secondary School Certification**, Board of Secondary Education, Hyderabad  
 
----
 
 ## Achievements & Highlights
 
 - Independently managed end-to-end documentation projects from initial drafts to publishing.  
 - Recognized for creating structured onboarding guides that reduced new user training time.  
 - Contributed to documentation strategies supporting external product rollouts.
-
----
 
 ## Certifications
 
