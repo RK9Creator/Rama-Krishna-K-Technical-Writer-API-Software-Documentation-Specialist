@@ -11,13 +11,14 @@ I'm **Rama Krishna K**, a Technical Writer with over 8 years of experience in de
 ##   Portfolio Samples
 
 ### 1. [GRS API Documentation](./GRS_API_Documentation.md)
-A beginner-level.
+A comprehensive guide detailing the API endpoints, authentication, error codes, and examples for interacting with the GRS Tool, suitable for beginner-level users
 
 ### 2. [GRS User Guide](./GRS_User_Guide.md)
-A walkthrough for g.
+Step-by-step instructions for using the GRS Tool, including uploading, validating, editing, and migrating design log records.
 
 ### 3. [Requirement Specification document](./Requirement_Specification_Document_GRS.md)
-A task-based
+Defines the functional and non-functional requirements, system scope, use cases, and external interfaces for the GRS Tool
+
 ---
 ##   Other Samples
 * [Automated Teller Machine with Flow chart](Automated_Teller_Machine_with_Flow_chart.docx)
