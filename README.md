@@ -1,10 +1,19 @@
 # Rama Krishna K | Technical Writer | API & Software Documentation Specialist
 ## About Me
 
-I'm **Rama Krishna K**, a Technical Writer with over 8 years of experience in delivering end-to-end technical content for software.
+- Experienced **Technical Writer** with 8 years in IT, healthcare, and software domains.  
+- Skilled in **MadCap Flare, Microsoft Word, Confluence, SharePoint, Tableau, Python**, and more.  
+- Passionate about creating **clear, structured, and user-friendly documentation**.  
+- Exploring ways to combine **technical writing with programming and automation**.
 
-> **Tools & Technologies**: Markdown, GitHub, SharePoint, REST APIs, SDLC, Agile, Visual Studio Code, SnagIt, Visio  
-> **Key Skills**: Topic-based writing, information mapping, content strategy, workflow documentation, stakeholder collaboration
+## What’s Inside This Portfolio
+- **Projects:** Sample documentation, SOPs, and guides I’ve created.  
+
+## Skills & Tools
+- **Documentation Tools:** MadCap Flare, Microsoft Word, Confluence, SharePoint  
+- **Programming & Scripting:** Python, Bash (for API calls and automation)  
+- **Data Visualization & Reporting:** Tableau, Excel  
+- **Domains:** Healthcare, IT/software, Inventory reporting
 
 ---
 
