@@ -7,7 +7,6 @@
 - **GitHub:** [GitHub](https://github.com/RK9Creator/Rama-Krishna-K-Technical-Writer-API-Software-Documentation-Specialist/blob/main/README.md)  
 - **LinkedIn:** [Linkedin](www.linkedin.com/in/rkgoud)
 
----
 
 ## Summary
 Technical Writer with **8 years of experience**, including 5 years in high-tech and healthcare domains. Skilled in creating user manuals, API documentation, SOPs, installation guides, and knowledge base content. Adept at collaborating with SMEs, developers, QA, and global teams. Proficient in **MadCap Flare, Confluence, SharePoint, Git, and Markdown**. Exposure to **AI-assisted documentation tools**. Strong understanding of **UX principles, information architecture**, and **content standardization**.
