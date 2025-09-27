@@ -15,7 +15,7 @@ This portfolio showcases samples tailored for Microsoft Power Platform with focu
 ### 1. [GRS_API_Documentation](./GRS_API_Documentation.md)
 A beginner-level tutorial that helps business users create their first app using SharePoint list data. Covers interface navigation, automatic app generation, and publishing steps.
 
-### 2. [Using Data Loss Prevention (DLP) Policies in Power Platform Admin Center](./dlp-policies-powerplatform.md)
+### 2. [GRS_User_Guide](./GRS_User_Guide.md)
 A walkthrough for Power Platform admins to configure and apply DLP policies for environment governance, including connector grouping and policy targeting.
 
 ### 3. [Create an Approval Workflow with Power Automate](./approval-flow-powerautomate.md)
@@ -24,12 +24,6 @@ A task-based guide for business users to set up a simple approval flow triggered
 ---
 ##   Other Samples
 * [Automated Teller Machine with Flow chart](Automated_Teller_Machine_with_Flow_chart.docx)
-* [Community Cloud User Guide](Community_cloud_User_Guide.pptx)
-* [Lidar Device Installation Guide](Lidar_device_installation_guide_V_1_2_External.pdf)
-* [Mobile Phone Calling Function](Mobile_phone_calling_function.docx)
-* [Power13 White Paper](Power13_Whiteond_Paper.docx)
-* [Standard Operating Procedure for Food Delivery Drivers](Standard_Operating_Procedure_for_Food_Delivery_Drivers.docx)
-* [Yono Guide](yono_guide.docx)
 ---
 ##   Resume
 
