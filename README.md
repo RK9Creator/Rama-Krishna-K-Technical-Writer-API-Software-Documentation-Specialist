@@ -33,7 +33,7 @@ A task-based guide for business users to set up a simple approval flow triggered
 ---
 ##   Resume
 
-For detailed background, [view my resume](./resume.md) included in this repository.
+For detailed overview of my experience and technical writing background, [view my resume](Rama_Krishna_Technical_Writer_Resume.md)
 
 ---
 
