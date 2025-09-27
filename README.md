@@ -10,10 +10,10 @@ I'm **Rama Krishna K**, a Technical Writer with over 8 years of experience in de
 
 ##   Portfolio Samples
 
-### 1. [GRS_API_Documentation](./GRS_API_Documentation.md)
+### 1. [GRS API Documentation](./GRS_API_Documentation.md)
 A beginner-level.
 
-### 2. [GRS_User_Guide](./GRS_User_Guide.md)
+### 2. [GRS User Guide](./GRS_User_Guide.md)
 A walkthrough for g.
 
 ### 3. [Requirement Specification document](./Requirement_Specification_Document_GRS.md)
