@@ -23,6 +23,7 @@ Technical Writer with **8 years of experience**, including 5 years in high-tech 
 
 ## Experience
 
+
 ### **Technical Writer**  
 **Carelon Global Solutions**  
 *July 17, 2022 – July 20, 2025*
@@ -33,7 +34,6 @@ Technical Writer with **8 years of experience**, including 5 years in high-tech 
 - Standardized templates and style guides, improving content consistency and reducing review cycles by 20%.  
 - Created process guides and internal documentation following HIPAA compliance.
 
-
 ### **Senior Analyst**  
 **R1 RCM**  
 *October 2019 – July 2022*
@@ -43,7 +43,6 @@ Technical Writer with **8 years of experience**, including 5 years in high-tech 
 - Prepared daily inventory reports and monthly dashboards using Tableau and Excel.  
 - Explored software tools hands-on to document processes accurately.
 
-
 ### **Claims Associate**  
 **Optum Global Solutions**  
 *December 2018 – October 2019*
@@ -52,7 +51,6 @@ Technical Writer with **8 years of experience**, including 5 years in high-tech 
 - Identified trends and created daily analysis reports.  
 - Ensured accurate processing and completion of hospital claims.  
 - Managed exceptions that routed out of automatic adjudication within turnaround standards.
-
 
 ### **Analyst**  
 **Inventurus Knowledge Solutions (IKS)**  
@@ -75,6 +73,7 @@ Technical Writer with **8 years of experience**, including 5 years in high-tech 
 - Independently managed end-to-end documentation projects from initial drafts to publishing.  
 - Recognized for creating structured onboarding guides that reduced new user training time.  
 - Contributed to documentation strategies supporting external product rollouts.
+
 
 ## Certifications
 
