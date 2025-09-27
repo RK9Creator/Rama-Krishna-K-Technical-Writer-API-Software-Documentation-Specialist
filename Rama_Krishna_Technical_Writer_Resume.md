@@ -4,8 +4,8 @@
 - **Email:** kondururamakrishnagoud@gmail.com  
 - **Phone:** +91 7013947875  
 - **Address:** 3-17-56/30/D/2, Gandhi Nagar, Ramanthapur, Hyderabad  
-- **GitHub:** [github](https://github.com/RK9Creator/Rama-Krishna-K-Technical-Writer-API-Software-Documentation-Specialist/blob/main/README.md)  
-- **LinkedIn:** [linkedin](www.linkedin.com/in/rkgoud)
+- **GitHub:** [GitHub](https://github.com/RK9Creator/Rama-Krishna-K-Technical-Writer-API-Software-Documentation-Specialist/blob/main/README.md)  
+- **LinkedIn:** [Linkedin](www.linkedin.com/in/rkgoud)
 
 ---
 
