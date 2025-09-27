@@ -16,9 +16,8 @@ A beginner-level.
 ### 2. [GRS_User_Guide](./GRS_User_Guide.md)
 A walkthrough for g.
 
-### 3. [Create an Approval Workflow with Power Automate](./approval-flow-powerautomate.md)
-A task-based guide for business users to set up a simple approval flow triggered from SharePoint using a pre-built Power Automate template.
-
+### 3. [Requirement Specification document](./Requirement_Specification_Document_GRS.md)
+A task-based
 ---
 ##   Other Samples
 * [Automated Teller Machine with Flow chart](Automated_Teller_Machine_with_Flow_chart.docx)
