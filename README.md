@@ -10,10 +10,9 @@
 - **Projects:** Sample documentation, SOPs, and guides I’ve created.  
 
 ## Skills & Tools
-- **Documentation Tools:** MadCap Flare, Microsoft Word, Confluence, SharePoint  
-- **Programming & Scripting:** Python, Bash (for API calls and automation)  
+- **Documentation Tools:** MadCap Flare, Microsoft Word, Confluence, SharePoint   
 - **Data Visualization & Reporting:** Tableau, Excel  
-- **Domains:** Healthcare, IT/software, Inventory reporting
+- **Domains:** Healthcare, IT/software.
 
 ---
 
