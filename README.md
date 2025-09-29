@@ -20,8 +20,7 @@
 ##   Portfolio Samples
 
 ### 1. [GRS API Documentation](./GRS_API_Documentation.md)
-A comprehensive guide detailing the API endpoints, authentication, error codes, and examples for interacting with the GRS Tool, suitable for beginner-level users
-
+A comprehensive guide detailing the API endpoints, authentication, error codes, and examples for interacting with the GRS Tool.
 ### 2. [GRS User Guide](./GRS_User_Guide.md)
 Step-by-step instructions for using the GRS Tool, including uploading, validating, editing, and migrating design log records.
 
