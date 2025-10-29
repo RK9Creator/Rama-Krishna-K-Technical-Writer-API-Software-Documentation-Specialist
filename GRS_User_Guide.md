@@ -7,10 +7,10 @@
 1. [Introduction](#1-introduction)  
 2. [System Overview](#2-System-Overview)
    - 2.1. [GRS Architecture](#21-GRS-Architecture)
-   - 2.2. [Workflow Logic](#21-Workflow-Logic)
+   - 2.2. [Workflow Logic](#22-Workflow-Logic)
 3. [User Roles and Permissions](#3-User-Roles-and-Permissions)
 4. [Interface Overview](#4-Interface-Overview) 
-5. [Working with the GRS](#5-Working-with-the-GRS)  
+5. [Working with GRS](#5-Working-with-GRS)  
    - 5.1. [Upload design logs](#51-upload-design-logs)  
    - 5.2. [Validate records](#52-validate-records)  
    - 5.3. [Editing and Deleting Records](#53-Editing-and-Deleting-Records)  
@@ -213,4 +213,3 @@ Deleted records are logged in SQL with user ID and timestamp.
 | 1.0 | 15-Sep-2025 | Rama Krishna K | Initial Release |
 | 2.0 | 30-Sep-2025 | Rama Krishna K | Structural Enhancements |
 | 3.0 | 15-Oct-2025 | Rama Krishna K | SQL–Facets Integration |
-| 4.0 | 29-Oct-2025 | Rama Krishna K | Microsoft-Style Rewrite |
