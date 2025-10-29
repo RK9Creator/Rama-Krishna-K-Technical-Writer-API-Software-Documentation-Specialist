@@ -6,7 +6,7 @@
 
 1. [Introduction](#1-introduction)  
 2. [System Overview](#2-System-Overview)
-   -2.1. [GRS Architecture](#21-GRS-Architecture)
+   - 2.1. [GRS Architecture](#21-GRS-Architecture)
 4. [GRS Tool overview](#3-GRS-tool-overview)  
 5. [Working with the GRS Tool](#4-working-with-the-GRS-tool)  
    - 4.1. [Upload design logs](#41-upload-design-logs)  
