@@ -7,18 +7,20 @@
 1. [Introduction](#1-introduction)  
 2. [System Overview](#2-System-Overview)
    - 2.1. [GRS Architecture](#21-GRS-Architecture)
-4. [GRS Tool overview](#3-GRS-tool-overview)  
-5. [Working with the GRS Tool](#4-working-with-the-GRS-tool)  
-   - 4.1. [Upload design logs](#41-upload-design-logs)  
-   - 4.2. [Validate records](#42-validate-records)  
-   - 4.3. [Edit records](#43-edit-records)  
-   - 4.4. [Delete records](#44-delete-records)  
-   - 4.5. [Migrate records](#45-migrate-records)  
-6. [Troubleshooting](#5-troubleshooting)  
-7. [Best practices](#6-best-practices)  
-8. [Glossary](#7-glossary)  
-9. [Appendices](#8-appendices)  
-10. [Document control](#9-document-control)  
+   - 2.2. [ Workflow Logic](#21-Workflow-Logic)
+3. [User Roles and Permissions](#3-User-Roles-and-Permissions)
+4. [Interface Overview](#4-Interface-Overviewl) 
+5. [Working with the GRS](#5-working-with-the-GRS)  
+   - 5.1. [Upload design logs](#51-upload-design-logs)  
+   - 5.2. [Validate records](#52-validate-records)  
+   - 5.3. [Editing and Deleting Records](#53-Editing-and-Deleting-Records)  
+   - 5.4. [Migrating Validated Records](#54-Migrating-Validated-Records) 
+6. [Integration with SQL and Facets](#6-Integration-with-SQL-and-Facets)
+7. [Troubleshooting](#7-troubleshooting)  
+8. [Best practices](#8-best-practices)
+9. [FAQs](#9-FAQs)   
+10. [Glossary](#10-glossary)  
+12. [Document control](#11-document-control)  
 
 ---
 
@@ -106,7 +108,7 @@ The **GRS** interface includes the following sections:
 
 ## 5. Working with GRS
 
-### 5.1 Uploading Design Logs
+### 5.1 Upload Design Logs
 1. Log in to GRS.  
 2. Go to **Upload Design Log**.  
 3. Select the `.csv` or `.xlsx` file.  
@@ -117,7 +119,7 @@ The **GRS** interface includes the following sections:
 
 ---
 
-### 5.2 Validating Records
+### 5.2 Validate Records
 - GRS automatically validates each record on upload.  
 - Failed records are displayed in red with detailed error messages (e.g., `VAL-PLAN-001: Invalid Plan Code`).  
 - Correct records directly in GRS or re-upload the fixed file.  
