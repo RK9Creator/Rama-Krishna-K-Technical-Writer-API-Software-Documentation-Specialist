@@ -1,80 +1,93 @@
 # Rama Krishna Konduru
 
-## Contact Information
-- **Email:** kondururamakrishnagoud@gmail.com  
-- **Phone:** +91 7013947875  
-- **Address:** 3-17-56/30/D/2, Gandhi Nagar, Ramanthapur, Hyderabad  
-- **GitHub:** [GitHub](https://github.com/RK9Creator/Rama-Krishna-K-Technical-Writer-API-Software-Documentation-Specialist/blob/main/README.md)  
-- **LinkedIn:** [Linkedin](www.linkedin.com/in/rkgoud)
+**Technical Writer**
 
+Hyderabad, Telangana | +91 7013947875  
+[kondururamakrishnagoud@gmail.com](mailto:kondururamakrishnagoud@gmail.com) | [LinkedIn](YOUR_LINKEDIN_URL)
 
-## Summary
-Technical Writer with **8 years of experience**, including 5 years in high-tech and healthcare domains. Skilled in creating user manuals, API documentation, SOPs, installation guides, and knowledge base content. Adept at collaborating with SMEs, developers, QA, and global teams. Proficient in **MadCap Flare, Confluence, SharePoint, Git, and Markdown**. Exposure to **AI-assisted documentation tools**. Strong understanding of **UX principles, information architecture**, and **content standardization**.
+## PROFESSIONAL SUMMARY
 
+Technical Writer with **9+ years of professional experience**, including **5+ years of specialized experience in technical documentation** across Enterprise Networking and Healthcare domains. Experienced in creating customer-facing and internal documentation, including User Guides, Installation Guides, Troubleshooting Guides, Release Notes, Knowledge Base Articles, Standard Operating Procedures (SOPs), Workflow Documentation, and Training Guides. Proficient in **MindTouch, MadCap Flare, HTML, XML, DITA, Markdown, Jira, Git, GitLab, and Circuit AI (Claude Sonnet 5)**, with experience using **Canva, Camtasia, and Visio** for visual and multimedia content. Skilled in **topic-based, explanatory, and procedural writing** and collaborating with Engineering, Product Management, Quality Assurance (QA), Technical Support, Business Analysts, and Subject Matter Experts (SMEs) in Agile Scrum environments.
 
-## Core Competencies
+## TECHNICAL SKILLS
 
-- **Documentation Tools:** MadCap Flare, Confluence, SharePoint, Microsoft Word, Git, Markdown, DITA (familiar), HTML, Adobe Acrobat, Visio (basic)  
-- **Content Types:** User Manuals, API Documentation, Installation Guides, SOPs, Release Notes, Training Material, Knowledge Base Articles  
-- **Technical Skills:** Python (basic), MS Excel, PowerPoint  
-- **Domain Knowledge:** Healthcare, IT/Software  
-- **Key Strengths:** Project management, stakeholder collaboration, content structuring, style consistency, single-sourcing, multi-project handling  
+- **Authoring Tools:** MindTouch, MadCap Flare, Microsoft Word
+- **Markup Languages:** HTML, XML, DITA, Markdown
+- **Collaboration & Content Management:** Jira, Confluence, SharePoint
+- **Version Control:** Git, GitLab
+- **Documentation Types:** User Guides, How-to Guides, Installation Guides, Troubleshooting Guides, Release Notes, Knowledge Base Articles, SOPs, Workflow Documentation, Process Documentation, Training Guides
+- **Writing Methodologies:** Topic-Based Writing, Explanatory Writing, Procedural Writing
+- **Multimedia & Visual Tools:** Canva, Camtasia, Visio
+- **AI Tools:** Circuit AI (Claude Sonnet 5)
+- **Domains:** Enterprise Networking, Healthcare, IT Software
+- **Microsoft Office:** Microsoft Word, Microsoft Excel, Microsoft PowerPoint
 
+## PROFESSIONAL EXPERIENCE
 
-## Experience
+### Technical Writer (Contract)
 
+**Randstad India Pvt. Ltd. (Client: Cisco Systems)** | December 2025 – Present
 
-### **Technical Writer**  
-**Carelon Global Solutions**  
-*July 17, 2022 – July 20, 2025*
+Developed customer-facing technical documentation for Cisco enterprise networking products using the MindTouch Knowledge Management System (KMS) in an Agile Scrum environment, collaborating with cross-functional teams to deliver accurate, user-focused content.
 
-- Developed end-user and internal documentation including SOPs, troubleshooting guides, installation manuals, and API documentation.  
-- Collaborated with SMEs, developers, QA, and global teams to ensure technical accuracy.  
-- Managed content using MadCap Flare, Confluence, and SharePoint; produced online, PDF, and knowledge base outputs.  
-- Standardized templates and style guides, improving content consistency and reducing review cycles by 20%.  
-- Created process guides and internal documentation following HIPAA compliance.
+- Authored User Guides, How-to Guides, Installation Guides, Troubleshooting Guides, Release Notes, and Knowledge Base Articles for Cisco enterprise networking products.
+- Reviewed, edited, maintained, and published technical documentation using MindTouch.
+- Updated **200+ technical documentation articles** supporting software releases, product enhancements, engineering changes, and customer feedback while ensuring technical accuracy and consistency.
+- Structured, formatted, and published documentation using HTML, Markdown, and MindTouch authoring capabilities.
+- Collaborated with Engineering, Product Management, QA, Technical Support, and SMEs to gather technical information, validate content, and ensure documentation accuracy.
+- Managed documentation tasks, sprint deliverables, peer reviews, and documentation updates using Jira in an Agile Scrum environment.
+- Leveraged **Circuit AI** to accelerate content creation by generating initial drafts and refining them into publish-ready documentation.
+- Improved documentation quality, consistency, and knowledge accessibility by following documentation governance standards and style guides.
 
-### **Senior Analyst**  
-**R1 RCM**  
-*October 2019 – July 2022*
+### Technical Writer
 
-- Authored user manuals, workflows, and training material for healthcare software tools.  
-- Analyzed requirements and collaborated with cross-functional teams to align content with project goals.  
-- Prepared daily inventory reports and monthly dashboards using Tableau and Excel.  
-- Explored software tools hands-on to document processes accurately.
+**Carelon Global Solutions** | July 2022 – July 2025
 
-### **Claims Associate**  
-**Optum Global Solutions**  
-*December 2018 – October 2019*
+Created internal technical documentation for healthcare automation applications supporting business analysts and operational teams.
 
-- Reviewed, investigated, negotiated, processed, and adjusted hospital claims.  
-- Identified trends and created daily analysis reports.  
-- Ensured accurate processing and completion of hospital claims.  
-- Managed exceptions that routed out of automatic adjudication within turnaround standards.
+- Applied **topic-based writing principles** to create reusable, task-oriented documentation for healthcare applications, workflows, and business processes.
+- Authored User Guides, Standard Operating Procedures (SOPs), Workflow Documentation, Process Documentation, Training Guides, and Knowledge Base Articles.
+- Used **explanatory and procedural writing techniques** to communicate application functionality, operational workflows, and business processes clearly.
+- Collaborated with Developers, QA Engineers, Business Analysts, and SMEs to document application functionality, operational workflows, and business processes.
+- Managed documentation creation, reviews, version control, archival, and repository maintenance using Microsoft Word and SharePoint.
+- Updated documentation to reflect software enhancements, application changes, process improvements, and user feedback.
+- Maintained documentation templates, version history, and repository structures to improve document consistency and accessibility.
+- Ensured compliance with organizational documentation standards, writing guidelines, and style guides.
+- Supported knowledge management initiatives by maintaining accurate, well-organized, and up-to-date documentation repositories.
 
-### **Analyst**  
-**Inventurus Knowledge Solutions (IKS)**  
-*March 2017 – December 2018*
+### Senior Analyst
 
-- Processed insurance payments including EFT, ERA, EOB, and manual postings.  
-- Tracked denials for appeal and validated payer contracts.  
-- Reconciled daily payment logs and ensured accuracy of revenue records.
+**R1 RCM** | October 2019 – July 2022
 
+Supported healthcare business operations through documentation, reporting, and process improvement initiatives.
 
-## Education
+- Produced Workflow Documentation and Training Guides supporting healthcare business operations.
+- Collaborated with cross-functional teams and SMEs to document business processes and operational workflows.
+- Maintained documentation supporting continuous process improvement and organizational knowledge sharing.
+- Developed operational dashboards and reports using Tableau and Microsoft Excel to support business reporting and process analysis.
 
-- **Bachelor's Degree**, Osmania University, Hyderabad  
-- **Higher Secondary Certification**, Board of Intermediate Education, Hyderabad  
-- **Secondary School Certification**, Board of Secondary Education, Hyderabad  
+### Claims Associate
 
+**Optum Global Solutions** | December 2018 – October 2019
 
-## Achievements & Highlights
+- Reviewed, investigated, processed, and resolved hospital and medical insurance claims.
+- Processed claims routed from automated adjudication by validating claim accuracy and resolving claim exceptions.
+- Maintained productivity, quality, and accuracy while meeting turnaround time and organizational quality standards.
 
-- Independently managed end-to-end documentation projects from initial drafts to publishing.  
-- Recognized for creating structured onboarding guides that reduced new user training time.  
-- Contributed to documentation strategies supporting external product rollouts.
+### Analyst
 
+**Inventurus Knowledge Solutions (IKS)** | March 2017 – December 2018
 
-## Certifications
+- Processed insurance payments using EOB, ERA, EFT, and manual payment methods.
+- Investigated payment discrepancies by validating payer contracts, fee schedules, and reimbursement details.
+- Reconciled daily payment transactions while maintaining operational accuracy and compliance.
 
-- **Certified Technical Writer**, Tech Writer’s Tribe — *July 2021*
+## EDUCATION
+
+**Bachelor of Commerce (B.Com)**  
+Osmania University, Hyderabad
+
+## CERTIFICATIONS
+
+**Certified Technical Writer**  
+Tech Writer's Tribe | July 2021
