@@ -1,4 +1,4 @@
-# Rama Krishna K | Technical Writer | API & Software Documentation Specialist
+Rama_Krishna_Konduru_Technical_Writer_Resume.md
 ## About Me
 
 - Experienced **Technical Writer** with 8 years in IT, healthcare, and software domains.  
