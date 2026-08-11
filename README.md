@@ -96,6 +96,21 @@ A requirements specification document that defines the GRS Tool's functional and
 * External interfaces
 * Structured technical documentation
 
+## 5. Sample Video
+
+[View Video](./Sample_Video.md)
+
+A sample technical video demonstrating video editing and the ability to present technical information in a clear and engaging format.
+
+**Demonstrates:**
+
+* Video editing
+* Technical content presentation
+* Visual communication
+* Information structuring
+* User-focused content delivery
+
+
 ---
 
 
