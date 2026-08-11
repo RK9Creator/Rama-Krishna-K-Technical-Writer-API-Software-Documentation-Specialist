@@ -1,123 +1,44 @@
-Rama_Krishna_Konduru_Technical_Writer_Resume.md
-
 # Rama Krishna Konduru — Technical Writer
 
 ## About Me
+Technical Writer with 9 years of experience in IT, healthcare, and software domains.  
+I specialize in creating clear, structured, and user‑focused documentation that simplifies complex technical information.
 
-Technical Writer with **9 years of experience in IT, healthcare, and software domains**, specializing in creating clear, structured, and user-focused technical documentation.
-
-Experienced in developing customer-facing and internal documentation, including troubleshooting guides, user guides, SOPs, requirements documentation, and knowledge base articles.
-
-I enjoy simplifying complex technical information and creating documentation that helps users understand products, troubleshoot issues, and complete tasks efficiently.
-
-## Technical Writing Skills
-
-* Technical Documentation
-* Troubleshooting Guides
-* User Guides
-* How-to Guides
-* SOPs
-* Requirements Documentation
-* Knowledge Base Articles
-* Process Documentation
-* Product Documentation
-* Release Documentation
-
-## Tools & Technologies
-
-* **Authoring Tools:** MadCap Flare, Microsoft Word, Confluence, SharePoint, MindTouch
-* **Markup & Documentation:** Markdown, HTML, XML, DITA
-* **Collaboration & Version Control:** Jira, Git, Confluence, SharePoint
-* **Data & Reporting:** Microsoft Excel, Tableau
-* **Methodologies:** Agile, Scrum
-
-## Domain Experience
-
-* Enterprise Networking
-* Healthcare
-* IT and Software
+## Skills
+- **Documentation Types:** Troubleshooting Guides, User Guides, SOPs, Requirements Documentation, Knowledge Base Articles
+- **Tools:** MadCap Flare, Microsoft Word, Confluence, SharePoint, MindTouch
+- **Markup & Standards:** Markdown, HTML, XML, DITA
+- **Collaboration:** Jira, Git, GitHub, Confluence
+- **Methodologies:** Agile, Scrum
+- **Domains:** Enterprise Networking, Healthcare, IT & Software
 
 ---
 
-# Portfolio Samples
+## Portfolio Samples
 
-## 1. [Troubleshooting Packet Loss Between Devices](./Troubleshooting_Packet_Loss_Between_Devices.md)
+- [Resume](Rama_Krishna_Resume.md)  
+  Overview of my professional experience, skills, and background.
 
-A troubleshooting guide that explains how to identify, isolate, and troubleshoot packet loss across routed, wireless, switched, and WAN networks.
+- [GRS User Guide](GRS_User_Guide.md)  
+  Step‑by‑step guide for the GRS Tool, covering uploading, validating, editing, and migrating design log records.
 
-***Documentation demonstrates:***
+- [Requirement Specification Document](Requirement_Specification_Document_GRS.md)  
+  Defines functional and non‑functional requirements, system scope, use cases, and external interfaces.
 
-* Troubleshooting methodology
-* Network troubleshooting concepts
-* Step-by-step procedures
-* Packet loss isolation
-* `ping` and `tracert` usage
-* WAN and LAN troubleshooting
-* Common network failure scenarios
+- [Troubleshooting Packet Loss Between Devices](Troubleshooting_Packet_Loss_Between_Devices.md)  
+  Explains methodology for isolating and resolving packet loss across routed, wireless, switched, and WAN networks.
 
-## 2. [Troubleshooting PoE on MS switches](./Troubleshooting_PoE_on_MS_switches.md)
+- [Troubleshooting PoE on MS Switches](Troubleshooting_PoE_on_MS_switches.md)  
+  Guide for identifying and resolving Power over Ethernet issues on Cisco Meraki MS switches.
 
-A troubleshooting guide for identifying and resolving Power over Ethernet (PoE) issues on Cisco Meraki MS switches.
+- [SOP for Food Delivery Drivers](SOP_for_Food_Delivery_Drivers.docx)  
+  Process documentation outlining standard operating procedures for delivery drivers.
 
-***Documentation demonstrates:***
-
-* Technical troubleshooting procedures
-* PoE concepts and terminology
-* CDP and LLDP packet analysis
-* Physical-layer troubleshooting
-* PoE provisioning
-* PoE underload and overload troubleshooting
-* Diagnostic procedures
-* Technical notes and cautions
-
-## 3. [GRS User Guide](./GRS_User_Guide.md)
-
-A step-by-step user guide for the GRS Tool, covering the process of uploading, validating, editing, and migrating design log records.
-
-***Documentation demonstrates:***
-
-* Task-oriented documentation
-* User workflows
-* Step-by-step procedures
-* Application functionality
-* Validation and troubleshooting guidance
-
-## 4. [Requirement Specification document](./Requirement_Specification_Document_GRS.md)
-
-A requirements specification document that defines the GRS Tool's functional and non-functional requirements, system scope, use cases, and external interfaces.
-
-***Documentation demonstrates:***
-
-* Requirements analysis
-* Functional requirements
-* Non-functional requirements
-* Use cases
-* System scope
-* External interfaces
-* Structured technical documentation
-
-## **5. Video Documentation**
-
-Check out our video tutorials and demos:
-
-[![YouTube Playlist](https://img.youtube.com/vi/PLAYLIST_ID/0.jpg)](https://youtube.com/playlist?list=PLhZXwWokB2uDNVfFddLPcUop5kVpC1Qs4&si=kt14dhNxoT3SyFnD)
-
-[View Full Playlist on YouTube](https://youtube.com/playlist?list=PLhZXwWokB2uDNVfFddLPcUop5kVpC1Qs4&si=kt14dhNxoT3SyFnD) 
+- [Video Tutorial](Sample_Video.mp4)  
+  Demonstrates ability to create multimedia documentation and tutorials.
 
 ---
 
-
-# Resume
-
-For a detailed overview of my professional experience, skills, and technical writing background:
-
-[View My Resume](https://github.com/RK9Creator/Rama-Krishna-K-Technical-Writer-API-Software-Documentation-Specialist/blob/main/Rama_Krishna_Technical_Writer_Resume.md)
-
----
-
-# Contact
-
-* **Email:** [kondururamakrishnagoud@gmail.com](mailto:kondururamakrishnagoud@gmail.com)
-* **Phone:** +91 7013947875
-* **LinkedIn:** [linkedin.com/in/rkgoud](https://www.linkedin.com/in/rkgoud)
-
+## Contact
+📧 Email: kondururamakrishnagoud  
+🌐 Portfolio Repo: [GitHub Link](https://github.com/RK9Creator/Rama-Krishna-K-Technical-Writer-API-Software-Documentation-Specialist)
