@@ -96,7 +96,7 @@ A requirements specification document that defines the GRS Tool's functional and
 * External interfaces
 * Structured technical documentation
 
-**##5. Video Documentation**
+## **5. Video Documentation**
 
 Check out our video tutorials and demos:
 
