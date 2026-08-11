@@ -96,20 +96,13 @@ A requirements specification document that defines the GRS Tool's functional and
 * External interfaces
 * Structured technical documentation
 
-## 5. Sample Video
+##5 Video Documentation
 
-[View Video](./Sample_Video.mp4)
+Check out our video tutorials and demos:
 
-A sample technical video demonstrating video editing and the ability to present technical information in a clear and engaging format.
+[![YouTube Playlist](https://img.youtube.com/vi/PLAYLIST_ID/0.jpg)](https://youtube.com/playlist?list=PLhZXwWokB2uDNVfFddLPcUop5kVpC1Qs4&si=kt14dhNxoT3SyFnD)
 
-**Demonstrates:**
-
-* Video editing
-* Technical content presentation
-* Visual communication
-* Information structuring
-* User-focused content delivery
-
+[View Full Playlist on YouTube](https://youtube.com/playlist?list=PLhZXwWokB2uDNVfFddLPcUop5kVpC1Qs4&si=kt14dhNxoT3SyFnD) 
 
 ---
 
