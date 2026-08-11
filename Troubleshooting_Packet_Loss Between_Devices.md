@@ -1,0 +1,220 @@
+# Troubleshooting Packet Loss Between Devices
+
+## Overview
+
+Packet loss occurs when packets sent from one network device to another do not reach their destination. Packet loss can result from several network conditions, including link congestion, faulty cables, speed or duplex mismatches, wireless interference, or firewall filtering.
+
+When troubleshooting packet loss, first confirm that packet loss occurs. Then identify where the loss begins and isolate the affected network segment or device.
+
+## Troubleshooting Packet Loss Detection
+
+Use a client PC or the Cisco Meraki dashboard to confirm whether packet loss occurs.
+
+### Troubleshooting Steps
+
+#### On a PC
+
+1. Open **Command Prompt** on the client PC. Select **Start**, search for `cmd`, and open **Command Prompt**.
+
+2. Run the following command:
+
+   ```text
+   ping -n 20 8.8.8.8
+   ```
+
+   This command sends 20 ICMP requests to `8.8.8.8`. Replace `8.8.8.8` with the IP address that you want to test.
+
+3. Review the ping statistics to determine whether packet loss occurred.
+
+4. If the test does not show packet loss, increase the number of requests. For example:
+
+   ```text
+   ping -n 100 8.8.8.8
+   ```
+
+   A larger number of requests can help identify intermittent packet loss.
+
+> **Note:** The ping test measures ICMP connectivity. It does not necessarily identify packet loss affecting other protocols or applications.
+
+#### Via the Dashboard
+
+Use the Cisco Meraki dashboard to monitor connectivity to a specific IP address. An MX appliance periodically sends ICMP requests to the configured destination and records the results.
+
+1. Navigate to **Security & SD-WAN > Monitor > Appliance status > Uplink**.
+
+2. Review the **Historical data** section for packet loss on the WAN uplink.
+
+3. Review the historical packet loss graph to identify periods when packet loss occurred.
+
+4. To configure the destination IP address used for the connectivity test, navigate to **Security & SD-WAN > Configure > SD-WAN & Traffic Shaping > Uplink statistics**.
+
+## Troubleshooting Packet Loss on Routed Links
+
+After confirming packet loss, identify where the loss begins. Use `tracert` to identify Layer 3 (L3) devices along the path.
+
+### Troubleshooting Steps
+
+1. Open **Command Prompt** on the client PC. Select **Start**, search for `cmd`, and open **Command Prompt**.
+
+2. Run the following command:
+
+   ```text
+   tracert -d 8.8.8.8
+   ```
+
+   The `tracert` command traces the route to `8.8.8.8` and displays each hop as an IP address.
+
+3. Review the output for asterisks (`*`) or `Request timed out` messages.
+
+4. An asterisk indicates that the device did not respond to the traceroute request. This does not necessarily indicate packet loss because some network devices limit or block responses to traceroute probes.
+
+5. Run the test multiple times to determine whether the behavior is consistent.
+
+6. Compare the results from the affected hop with subsequent hops. If packet loss appears at one hop but subsequent hops respond normally, the intermediate device might be rate-limiting or deprioritizing traceroute traffic rather than dropping forwarded traffic.
+
+7. Test from multiple clients at different network locations to determine whether the issue affects a specific client, network segment, or location.
+
+8. Use a continuous traceroute tool such as [WinMTR](https://winmtr.net/) to monitor packet loss over time. WinMTR displays packet loss and latency statistics for each hop in the path.
+
+> **Tip:** When using traceroute tools to identify packet loss, focus on loss that continues through subsequent hops or reaches the final destination. Loss reported only at an intermediate hop does not necessarily indicate a network problem.
+
+## Troubleshooting Packet Loss on a WAN Uplink
+
+If packet loss occurs on a WAN uplink, determine whether the loss originates from the WAN appliance or the ISP network. Use packet captures on the LAN and Internet-facing interfaces to identify where packets are being lost.
+
+For more information, see [Packet Capture Overview](https://documentation.meraki.com/Platform_Management/Dashboard_Administration/Troubleshooting_and_Support/Troubleshooting/Packet_Capture_Overview).
+
+### Troubleshooting Steps
+
+1. Run continuous pings from a client PC to a public IP address.
+
+2. Capture traffic simultaneously on the LAN and WAN interfaces of the MX appliance.
+
+3. Filter the packet captures by:
+
+   * Source IP address
+   * Destination IP address
+   * ICMP protocol
+
+4. Verify that the MX appliance receives ICMP requests from the LAN and forwards them to the WAN.
+
+5. Verify that ICMP responses return from the WAN and reach the LAN client.
+
+6. If the MX appliance forwards the traffic correctly but packet loss continues on the WAN side, continue troubleshooting the ISP connection.
+
+## Troubleshooting Packet Loss in a Wireless or Switched Network
+
+The `tracert` command identifies Layer 3 devices in the path, such as routers. It does not identify packet loss that occurs between the client and the first Layer 3 device.
+
+If the client connects through a wireless access point (AP) and one or more switches before reaching the first Layer 3 device, perform additional tests to isolate the affected segment.
+
+Repeat the tests while progressively moving closer to the first Layer 3 device.
+
+### Troubleshooting Steps
+
+1. Ping the AP or an appropriate network destination to test connectivity over the wireless connection.
+
+   * For Cisco Meraki APs, you can use `my.meraki.com` to access the local device status page and verify the AP's connectivity.
+   * If packet loss occurs over the wireless connection, see [Troubleshooting Wireless Performance](https://documentation.meraki.com/Wireless/Troubleshooting_and_Support/Troubleshooting/Tools_for_Troubleshooting_Poor_Wireless_Performance).
+
+2. Ping a wired client on the same VLAN as the wireless client, if one is available.
+
+   * If multiple switches exist between the AP and the wired client, repeat the test at each network segment.
+   * If packet loss begins on this segment, investigate the following:
+
+     * Speed or duplex mismatch on the link between the AP and switch.
+     * Speed or duplex mismatch on the link between the switch and wired client.
+     * Faulty or damaged cable between the AP and switch.
+     * Faulty or damaged cable between the switch and wired client.
+
+3. Connect a test client directly to the router or firewall on the same VLAN as the wireless client. From the wireless client, ping the router or firewall.
+
+   * If packet loss begins at this point, investigate the following:
+
+     * Speed or duplex mismatch between the switch and router or firewall.
+     * Speed or duplex mismatch between the router or firewall and wired client.
+     * Faulty or damaged cable between the switch and router or firewall.
+     * Faulty or damaged cable between the router or firewall and wired client.
+
+4. If the network uses Cisco Meraki switches or MX appliances, test connectivity to the first MS switch or MX appliance in the path.
+
+   * To identify the management IP address of an MS switch, access `switch.meraki.com` from a client on the same network.
+   * To access the local status page of an MX appliance, access `wired.meraki.com`.
+
+Use the following testing sequence to isolate packet loss in a wireless or switched network:
+
+**Wireless client → AP → MS switch → additional switches → MX appliance/router/firewall → destination**
+
+## Troubleshooting Common Causes of Packet Loss
+
+The following sections describe common causes of packet loss and the steps you can take to isolate and resolve them.
+
+### Speed or Duplex Mismatch
+
+A speed or duplex mismatch occurs when the interfaces at each end of a link use incompatible settings. For example, one interface might use a manually configured speed while the other interface uses a different speed or an incompatible duplex setting.
+
+A mismatch can cause errors, retransmissions, reduced throughput, and packet loss.
+
+#### Troubleshooting Steps
+
+1. Identify the configured speed and duplex settings on both ends of the affected link.
+
+2. Compare the settings on both interfaces.
+
+3. Configure both interfaces to use **Auto** negotiation for speed and duplex when possible.
+
+4. If you must configure speed or duplex manually, use compatible settings on both ends of the link.
+
+5. Check the interfaces for errors or other indicators of a physical-layer problem.
+
+### Link Congestion
+
+Link congestion occurs when the amount of traffic exceeds the available bandwidth of a network link. For example, a 20 Mbps link cannot carry 60 Mbps of traffic without queuing or dropping traffic.
+
+Congestion can result in packet loss, increased latency, and reduced application performance.
+
+#### Troubleshooting Steps
+
+Use one or more of the following methods:
+
+* Increase the capacity of the affected link.
+* Identify and reduce unnecessary traffic.
+* Apply traffic-shaping rules on [MX appliances](https://documentation.meraki.com/SASE_and_SD-WAN/MX/Design_and_Configure/Configuration_Guides/Firewall_and_Traffic_Shaping/SD-WAN_and_Traffic_Shaping) to control bandwidth usage.
+* Apply traffic-shaping rules on [MR access points](https://documentation.meraki.com/Wireless/Operate_and_Maintain/How_Tos/Firewall_and_Traffic_Shaping/Traffic_and_Bandwidth_Shaping) to control wireless bandwidth usage.
+* Prioritize critical applications or traffic when appropriate.
+
+### Firewall Blocking Traffic
+
+A firewall can block specific types of traffic while allowing other traffic to pass. As a result, users might experience what appears to be packet loss for a specific application, website, protocol, or service.
+
+#### Troubleshooting Steps
+
+1. Identify whether a firewall exists between the devices or network locations experiencing the issue.
+
+2. Identify the protocol, source, destination, and destination port used by the affected traffic.
+
+3. Review the firewall rules to determine whether the firewall blocks the traffic.
+
+4. Check the firewall event logs for denied connections or dropped traffic.
+
+5. Temporarily test with an appropriate firewall rule, if permitted by the network security policy, to determine whether the firewall causes the issue.
+
+### Bad Cable or Loose Connection
+
+A poorly terminated, incorrectly terminated, or physically damaged cable can degrade the signal between network devices. A cable that is not fully seated in a port can also cause intermittent connectivity or packet loss.
+
+Dust, debris, or physical damage to a connector or port can contribute to connectivity problems.
+
+#### Troubleshooting Steps
+
+1. Replace the suspected cable with a known-good cable.
+
+2. If supported, run a cable test to identify physical-layer problems.
+
+3. Inspect the cable and connectors for visible damage.
+
+4. Verify that both ends of the cable are securely connected and fully seated in their ports.
+
+5. Keep network ports and connectors free of dust and debris.
+
+6. Monitor the interface for errors after replacing or reseating the cable.
