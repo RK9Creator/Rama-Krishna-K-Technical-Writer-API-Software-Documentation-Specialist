@@ -41,13 +41,11 @@ I enjoy simplifying complex technical information and creating documentation tha
 
 # Portfolio Samples
 
-## 1. Troubleshooting Packet Loss Between Devices
-
-### 1. [Troubleshooting Packet Loss Between Devices](./Troubleshooting_Packet_Loss_Between_Devices.md)
+## 1. [Troubleshooting Packet Loss Between Devices](./Troubleshooting_Packet_Loss_Between_Devices.md)
 
 A troubleshooting guide that explains how to identify, isolate, and troubleshoot packet loss across routed, wireless, switched, and WAN networks.
 
-**Documentation demonstrates:**
+***Documentation demonstrates:***
 
 * Troubleshooting methodology
 * Network troubleshooting concepts
@@ -57,13 +55,11 @@ A troubleshooting guide that explains how to identify, isolate, and troubleshoot
 * WAN and LAN troubleshooting
 * Common network failure scenarios
 
-## 2. Troubleshooting PoE on MS Switches
-
-### 2. [Troubleshooting PoE on MS switches](./Troubleshooting_PoE_on_MS_switches.md)
+## 2. [Troubleshooting PoE on MS switches](./Troubleshooting_PoE_on_MS_switches.md)
 
 A troubleshooting guide for identifying and resolving Power over Ethernet (PoE) issues on Cisco Meraki MS switches.
 
-**Documentation demonstrates:**
+***Documentation demonstrates:***
 
 * Technical troubleshooting procedures
 * PoE concepts and terminology
@@ -74,13 +70,11 @@ A troubleshooting guide for identifying and resolving Power over Ethernet (PoE) 
 * Diagnostic procedures
 * Technical notes and cautions
 
-## 3. GRS User Guide
-
-### 3. [GRS User Guide](./GRS_User_Guide.md)
+## 3. [GRS User Guide](./GRS_User_Guide.md)
 
 A step-by-step user guide for the GRS Tool, covering the process of uploading, validating, editing, and migrating design log records.
 
-**Documentation demonstrates:**
+***Documentation demonstrates:***
 
 * Task-oriented documentation
 * User workflows
@@ -88,13 +82,11 @@ A step-by-step user guide for the GRS Tool, covering the process of uploading, v
 * Application functionality
 * Validation and troubleshooting guidance
 
-## 4. Requirements Specification Document
-
-### 4. [Requirement Specification document](./Requirement_Specification_Document_GRS.md)
+## 4. [Requirement Specification document](./Requirement_Specification_Document_GRS.md)
 
 A requirements specification document that defines the GRS Tool's functional and non-functional requirements, system scope, use cases, and external interfaces.
 
-**Documentation demonstrates:**
+***Documentation demonstrates:***
 
 * Requirements analysis
 * Functional requirements
