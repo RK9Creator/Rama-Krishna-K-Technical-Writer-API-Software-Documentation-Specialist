@@ -18,7 +18,7 @@ Rama_Krishna_Konduru_Technical_Writer_Resume.md
 
 ##   Portfolio Samples
 
-### 1. [Troubleshooting Packet Loss Between Devices](./Troubleshooting_Packet_Loss_Between_Devices.md)
+### 1. [Troubleshooting Packet Loss Between Devices](./Troubleshooting_Packet_Loss Between_Devices.md)
 A .
 ### 2. [Troubleshooting PoE on MS switches](./Troubleshooting_PoE_on_MS_switches.md)
 S.
