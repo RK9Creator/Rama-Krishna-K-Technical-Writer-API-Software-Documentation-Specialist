@@ -18,12 +18,15 @@ Rama_Krishna_Konduru_Technical_Writer_Resume.md
 
 ##   Portfolio Samples
 
-### 1. [GRS API Documentation](./GRS_API_Documentation.md)
-A comprehensive guide detailing the API endpoints, authentication, error codes, and examples for interacting with the GRS Tool.
-### 2. [GRS User Guide](./GRS_User_Guide.md)
+### 1. [Troubleshooting Packet Loss Between Devices](./Troubleshooting_Packet_Loss_Between_Devices.md)
+A .
+### 2. [Troubleshooting PoE on MS switches](./Troubleshooting_PoE_on_MS_switches.md)
+S.
+
+### 3. [GRS User Guide](./GRS_User_Guide.md)
 Step-by-step instructions for using the GRS Tool, including uploading, validating, editing, and migrating design log records.
 
-### 3. [Requirement Specification document](./Requirement_Specification_Document_GRS.md)
+### 4. [Requirement Specification document](./Requirement_Specification_Document_GRS.md)
 Defines the functional and non-functional requirements, system scope, use cases, and external interfaces for the GRS Tool
 
 ---
