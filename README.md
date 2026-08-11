@@ -98,7 +98,7 @@ A requirements specification document that defines the GRS Tool's functional and
 
 ## 5. Sample Video
 
-[View Video](./Sample_Video.md)
+[View Video](./Sample_Video.mp4.md)
 
 A sample technical video demonstrating video editing and the ability to present technical information in a clear and engaging format.
 
