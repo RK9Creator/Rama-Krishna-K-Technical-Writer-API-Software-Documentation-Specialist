@@ -97,9 +97,9 @@ A requirements specification document defining the GRS Tool's functional and non
 
 ## 5. Sample Video
 
-[▶️ View Sample Video](./Sample_Video.mp4)
+[▶️ View Sample Video Playlist](https://youtube.com/playlist?list=PLhZXwWokB2uDNVfFddLPcUop5kVpC1Qs4&si=kt14dhNxoT3SyFnD)
 
-A sample technical video demonstrating video editing, visual communication, and technical content presentation.
+A collection of sample videos demonstrating video editing, visual communication, and technical content presentation.
 
 **Demonstrates:**
 
@@ -107,6 +107,7 @@ A sample technical video demonstrating video editing, visual communication, and 
 - Visual communication
 - Technical content presentation
 - Information structuring
+- User-focused content delivery
 
 ---
 
