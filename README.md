@@ -66,36 +66,8 @@ A troubleshooting guide for identifying and resolving Power over Ethernet (PoE) 
 - Physical-layer troubleshooting
 - Diagnostic procedures
 
-## 3. GRS User Guide
 
-[View Documentation](./GRS_User_Guide.md)
-
-A step-by-step user guide for the GRS Tool, covering uploading, validating, editing, and migrating design log records.
-
-**Demonstrates:**
-
-- Task-oriented documentation
-- User workflows
-- Step-by-step procedures
-- Application documentation
-- Validation procedures
-
-## 4. Requirements Specification Document
-
-[View Documentation](./Requirement_Specification_Document_GRS.md)
-
-A requirements specification document defining the GRS Tool's functional and non-functional requirements, system scope, use cases, and external interfaces.
-
-**Demonstrates:**
-
-- Requirements analysis
-- Functional requirements
-- Non-functional requirements
-- Use cases
-- System scope
-- External interfaces
-
-## 5. Sample Video
+## 3. Sample Video
 
 [▶️ View Sample Video Playlist](https://youtube.com/playlist?list=PLhZXwWokB2uDNVfFddLPcUop5kVpC1Qs4&si=kt14dhNxoT3SyFnD)
 
